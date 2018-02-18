@@ -1,11 +1,9 @@
-"# WW-Fitbit-Sync" 
+Weight Watchers Fitbit Sync
 
-Weight Watcher sync to Fitbit!
-
-The purpose of this app is to grab food logs from the weight
-watchers website and add the food items to a fitbit API. This is
+The purpose of this app is to grab food logs from the Weight
+Watchers website and add food items to a fitbit API. This is done
 by scraping the Weight watchers website using python, and
-must scrape past a login screen.
+scraping past a log screen.
 
 As of python 3.4, pip is bundled inside this verion making it 
 super easy to include packages with the command 
