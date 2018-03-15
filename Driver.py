@@ -29,8 +29,8 @@ except TimeoutException:
 username = browser.find_element_by_id("username")
 password = browser.find_element_by_id("password")
 
-username.send_keys("sniperman23")
-password.send_keys("halo3rulz")
+username.send_keys("")
+password.send_keys("")
 
 browser.find_element_by_id("loginButton").click()
 
